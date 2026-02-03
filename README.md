@@ -4,7 +4,7 @@ Proyecto realizado para la Entrega 1 del curso de JavaScript/Coderhouse
 
 Como soy Lic. en Nutrición, quise hacer un simulador rápido de calculo energético. 
 
-# SIMULADOR DE REQUERIMIENTO ENERGÉTICO DIARIO 
+## SIMULADOR DE REQUERIMIENTO ENERGÉTICO DIARIO 
 
 ## Descripción del proyecto
 Este simulador permite calcular de forma estimada el requerimiento energético diario
