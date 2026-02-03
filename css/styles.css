@@ -1,0 +1,15 @@
+.titulo-principal{
+    background-image: url("../img/imgdeporte.jpg");
+    background-size: cover;
+    background-position: center;
+
+    padding: 60px;
+    text-align: center;
+    color: white;
+}
+
+.titulo-principal h1{
+    font-size: 33px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
